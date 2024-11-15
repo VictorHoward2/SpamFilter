@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Spam Classification</string>
+
+    <string name="nsmc_pytorch">Spam message classification</string>
+
+    <string name="nsmc_sentiment">Classification</string>
+    <string name="nsmc_score">Score</string>
+    <string name="nsmc_edittext_hint">Enter text here...</string>
+
+    <string name="clear">Clear</string>
+</resources>
